@@ -1,5 +1,6 @@
 {
     "welcome_message": "Welcome to Our Website!",
+    "youtube": "https://www.youtube.com/watch?v=-Oa9wD29I7M",
     "about_us": "Learn more about us...",
     "footer_text": "© 2023 All rights reserved.",
     "About.ages": 7,
@@ -14,7 +15,7 @@
     "About.clients_text": "",
     "About.projects_tittle": "Projects as PM",
     "About.projects_num": 2134,
-    "About.projects_text": " You can know more by downloading my CV at the beginning of this page.",
+    "About.projects_text": " You can know more by downloading my CV .",
     "About.read_more_button": "Read more",
     "AboutMe.tittle": "About me",
     "AboutMe.tittle_h2": "Skills",
