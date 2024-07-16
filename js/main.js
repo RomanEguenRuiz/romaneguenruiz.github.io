@@ -32,7 +32,7 @@
         {
           scrollTop: $(this.hash).offset().top - 45,
         },
-        1500,
+        100,
         "easeInOutExpo"
       );
 
